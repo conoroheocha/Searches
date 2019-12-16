@@ -1,0 +1,2 @@
+# Searches
+BFS and DFS
